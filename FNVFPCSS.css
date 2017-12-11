@@ -1,0 +1,144 @@
+
+body {
+	background-color: #000000;
+	background-image: url("http://vignette3.wikia.nocookie.net/fallout/images/a/a3/Ranger_at_New_Vegas_entrance.jpg/revision/latest?cb=20110721063233");
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: Courier, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #8B0000;
+	font-weight: bold;
+}
+
+	a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #8B0000;
+	text-decoration: underline;
+}
+
+a:active{
+	color: #8B0000;
+	text-decoration: underline;
+}
+
+.img-description {
+	font-style: italic;
+	text-align: center;
+}
+
+.middle {
+background-color: #FFF;
+width: 800px;
+margin: auto;
+}
+
+.header{
+	width: 100%;
+	background-image: url("https://media.giphy.com/media/NzgeXEngU9cZi/giphy.gif");
+	background-size: cover;
+	margin: auto;
+}
+
+.header h1{
+	float: right;
+	padding-right: 20px;
+	color:	#8B0000;
+}
+
+.header h4{
+	float: right;
+	padding-right: 20px;
+	color: #8B0000;
+}
+
+.links{
+	width: 100%;
+	margin: auto;
+}
+
+.main-content{
+	width: 100%;
+	margin: auto;
+}
+
+.footer{
+	width: 100%;
+	margin: auto;
+}
+table, th, td {
+	border:1px solid #8B0000;
+}
+
+td {
+	width: 200px;
+	text-align: center;
+	vertical-align: center;
+}
+
+table {
+	margin: auto;
+}
+
+.main-content h1 {
+	text-align: center;
+}
+
+.New-Vegas-Cover {
+	margin: auto;
+	height: 50%;
+	width: 50%;
+	display: block;
+}
+
+.maincontent p {
+	padding: 10px;
+}
+
+.opening-cutscene {
+	margin: auto;
+	display: block;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.char-pic{
+	height: 50%;
+	width: 50%;
+	margin: auto;
+	display: block;
+}
+
+.center{
+	margin: auto;
+	display: block;
+}
+
+img{
+	border: 2px solid #8B0000;
+}
+
+.footer{
+	background-color: #8B0000;
+}
+
+.footer p{
+	background-color: #8B0000;
+	color: #FFFFFF;
+}
+
+p {
+	margin: 15px 15px;
+}
+
+li{
+	margin: 15px 15px;
+}
